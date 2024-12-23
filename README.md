@@ -30,6 +30,6 @@
   
 **Requirements: Requires BepInEx**  
 **Installation:** Download the PassageDude.zip and extract it into the *...\Sailwind\BepInEx\plugins* folder.  
-**Game version:** *0.27+*  
-**Mod Version:** *1.0.3*  
+**Game version:** *0.29+*  
+**Mod Version:** *1.0.5*  
 **Warning:** Making a backup of your save is advisable before installing new mods, however this mod should not cause any issue with saves.  
